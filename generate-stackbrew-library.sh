@@ -100,3 +100,4 @@ for version in "${versions[@]}"; do
 	done
 
 done
+
